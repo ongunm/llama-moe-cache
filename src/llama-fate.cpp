@@ -1,3 +1,12 @@
+// llama-moe-cache — FATE: predictive expert caching for MoE inference
+// Copyright (C) 2026 Ongun Manav
+//
+// This program is free software: you can redistribute it and/or modify
+// it under the terms of the GNU Affero General Public License as published
+// by the Free Software Foundation, either version 3 of the License.
+//
+// For commercial licensing: ongunmnv@gmail.com
+
 #include "llama-fate.h"
 #include "llama-model.h"
 #include "llama-hparams.h"
